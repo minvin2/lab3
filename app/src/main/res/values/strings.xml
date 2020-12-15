@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizMath</string>
+
+    <string name="high_score_text">HIGHSCORE: </string>
+    <string name="button_start">START QUIZ</string>
+    <string name="button_highscore">HIGHSCORE</string>
+    <string name="button_about">ABOUT</string>
+    <string name="score_textas">SCORE: </string>
+    <string name="number">QUESTION NUMBER: 1/x </string>
+    <string name="question">QUESTION: </string>
+    <string name="btntext">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="about">KTU LABORATORY WORK</string>
+    <string name="who">AUTHOR</string>
+    <string name="I">MINDAUGAS VINCIŪNAS</string>
+    <string name="enterName">Enter your name</string>
+    <string name="textView5">Congrulation!!! </string>
+    <string name="button_done">GO BACK TO MENIU</string>
+    <string name="button3">SAVE RESULT</string>
+
+    <string name="nameField">NAME</string>
+    <string name="scoreFieldas">SCORE</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
